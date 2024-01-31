@@ -1,0 +1,39 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": "1"
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": "2"
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": "3"
+    },
+    {
+      "name": "Mary Poppendieck",
+      "number": "39-23-6423122",
+      "id": "4"
+    },
+    {
+      "id": "9",
+      "name": "Ibnu Rasyid",
+      "number": "082120389231"
+    },
+    {
+      "id": "6",
+      "name": "Muhammad Arhan",
+      "number": "0921839284092"
+    },
+    {
+      "id": "7",
+      "name": "Abraham Lincoln",
+      "number": "082313230242"
+    }
+  ]
+}
