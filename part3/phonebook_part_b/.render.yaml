@@ -1,0 +1,9 @@
+- name: frontend
+  buildCommand: npm run build
+  startCommand: npm run start
+  env: production
+
+- name: backend
+  buildCommand: npm install
+  startCommand: node server.js
+  env: production

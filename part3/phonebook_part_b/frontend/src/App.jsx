@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import personService from "../src/services/api";
+import personService from "./api";
 import Notification from "./components/Notification";
 import PersonForm from "./components/PersonForm";
 import Persons from "./components/Persons";
